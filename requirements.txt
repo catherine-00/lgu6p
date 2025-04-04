@@ -1,7 +1,10 @@
 numpy==2.2.4
 pandas
 jupyterlab
-seaborn
 matplotlib
+seaborn
 openpyxl
 xlrd
+plotly
+streamlit
+yfinance
